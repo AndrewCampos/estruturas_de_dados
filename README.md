@@ -8,4 +8,4 @@ As estruturas de dados desse repositório foram feitas e aprimoradas durante a g
 + Busca
   - Árvore Binária de Busca
 
-----
+O arquivo constantes.c se refere à algumas constantes lógicas ou de de formatação utilizadas em todos os projetos.
