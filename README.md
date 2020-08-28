@@ -2,10 +2,10 @@
 As estruturas de dados desse repositório foram feitas e aprimoradas durante a graduação em Engenharia de Commputação na UNIFESP SJC. As estruturas foram implementadas todas na linguagem C e estão separadas em três categorias:
 
 + Básicas
-  + Árvore Binária
+  - Árvore Binária
 + Ordenação
-  + HeapSort
+  - HeapSort
 + Busca
- + Árvore Binária de Busca
+  - Árvore Binária de Busca
 
 ----
