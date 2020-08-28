@@ -7,3 +7,5 @@ As estruturas de dados desse repositório foram feitas e aprimoradas durante a g
   + HeapSort
 + Busca
  + Árvore Binária de Busca
+
+----
