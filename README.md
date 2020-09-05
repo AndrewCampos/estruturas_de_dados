@@ -1,11 +1,11 @@
-# Estruturas de Dados
-As estruturas de dados desse repositório foram feitas e aprimoradas durante a graduação em Engenharia de Commputação na UNIFESP SJC. As estruturas foram implementadas todas na linguagem C e estão separadas em três categorias:
+# Algoritmos e Estruturas de Dados
+Os códigos desse repositório foram feitas e aprimoradas durante a graduação em Engenharia de Commputação na UNIFESP SJC. As estruturas foram implementadas todas na linguagem C e estão separadas em três categorias:
 
-+ Básicas
++ Estruturas Básicas
   - Árvore Binária
-+ Ordenação
++ Algoritmos de Ordenação
   - HeapSort
-+ Busca
++ Algoritmos de Busca
   - Árvore Binária de Busca
 
 O arquivo constantes.c se refere à algumas constantes lógicas ou de de formatação utilizadas em todos os projetos.
