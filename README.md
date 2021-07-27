@@ -1,5 +1,5 @@
 # Algoritmos e Estruturas de Dados
-Os códigos desse repositório foram feitas e aprimoradas durante a graduação em Engenharia de Commputação na UNIFESP SJC. As estruturas foram implementadas todas na linguagem C e estão separadas em três categorias:
+Os códigos desse repositório foram desenvolvidos e aprimoradas durante a graduação em Engenharia de Commputação na UNIFESP SJC. As estruturas foram implementadas todas na linguagem C e estão separadas em três categorias:
 
 + Estruturas Básicas
   - Lista
