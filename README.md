@@ -10,4 +10,4 @@ Os códigos desse repositório foram feitas e aprimoradas durante a graduação 
   - Árvore Binária de Busca
   - Árvore AVL
 
-O arquivo _constantes.c_ se refere à algumas constantes lógicas ou de de formatação de texto no terminal úteis.
+O arquivo _constantes.c_ se refere à algumas constantes lógicas ou de formatação de texto no terminal úteis.
